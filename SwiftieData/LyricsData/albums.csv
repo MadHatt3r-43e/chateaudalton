@@ -1,0 +1,20 @@
+﻿AlbumID,Album Name,Release Date,Announce Date,Studio,RIAA,Associated Color,Grammys,CoverArtFilename
+1,Taylor Swift,00:00.0,NULL,Big Machine,7xP,Blue-Green,NULL,TaylorSwift.jpg
+2,Fearless (Platinum Edition) ,00:00.0,NULL,Big Machine,Diamond,Gold,AOY,Fearless_PlatinumEdition_.jpg
+3,Speak Now,00:00.0,NULL,Big Machine,6xP,Purple,NULL,SpeakNow.jpg
+4,Red,00:00.0,NULL,Big Machine,7xP,Red,NULL,Red.jpg
+5,1989,00:00.0,NULL,Big Machine,9xP,Light Blue,AOY,1989.jpg
+6,reputation,00:00.0,NULL,Big Machine,3xP,Black,NULL,Reputation.jpg
+7,Lover,00:00.0,NULL,Republic,3xP,Pink,NULL,Lover.jpg
+8,folklore,00:00.0,NULL,Republic,2xP,Light Grey,AOY,Folklore.jpg
+9,evermore,00:00.0,NULL,Republic,1xP,Brown,NULL,Evermore.jpg
+10,Midnights,00:00.0,NULL,Republic,2xP,Navy Blue,AOY,Midnights.jpg
+11,THE TORTURED POETS DEPARTMENT,00:00.0,NULL,Republic,1xP,White,NULL,THETORTUREDPOETSDEPARTMENT.jpg
+12,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,00:00.0,NULL,NULL,NULL,White,NULL,THETORTUREDPOETSDEPARTMENT_THEANTHOLOGY.jpg
+20,Fearless (Taylor's Version),00:00.0,NULL,Republic,1xP,Gold,NULL,Fearless_Taylor_sVersion_.jpg
+21,Red (Taylor's Version),00:00.0,NULL,Republic,1xP,Red,NULL,Red_Taylor_sVersion_.jpg
+22,Speak Now (Taylor's Version),00:00.0,NULL,Republic,1xP,Purple,NULL,SpeakNow_Taylor_sVersion_.jpg
+23,1989 (Taylor's Version),00:00.0,NULL,Republic,2xP,Light Blue,NULL,1989_Taylor_sVersion_.jpg
+24,Midnights (3am Edition) ,00:00.0,NULL,Republic,NULL,Navy Blue,NULL,Midnights_3amEdition_.jpg
+25,Midnights (The Til Dawn Edition) ,00:00.0,NULL,Republic,NULL,Navy Blue,NULL,Midnights_TheTilDawnEdition_.jpg
+26,Speak Now Deluxe ,00:00.0,NULL,NULL,NULL,Purple,NULL,SpeakNow_Deluxe_.jpg
